@@ -1,0 +1,122 @@
+[
+	{
+		"fields": {
+			"authors": "Dr Dan Adler",
+			"authors_certainty": "prefilled",
+			"country": "Switzerland",
+			"country_certainty": "prefilled",
+			"entry_type": "ethics",
+			"entry_type_certainty": "prefilled",
+			"extraction_comment": "clinical trial",
+			"is_trial": "yes",
+			"review_status": "prefilled automatically",
+			"source": "Ethics committees (CH)",
+			"source_id": "2020-00705",
+			"status_date": "2020-04-06",
+			"status_date_certainty": "generated",
+			"title": "Prone position in patient admitted for COVID19 pneumonia on low-flow oxygen therapy",
+			"title_certainty": "prefilled"
+		}
+	},
+	{
+		"fields": {
+			"authors": "PD Dr. med. Martin Schläpfer",
+			"authors_certainty": "prefilled",
+			"country": "Switzerland",
+			"country_certainty": "prefilled",
+			"entry_type": "ethics",
+			"entry_type_certainty": "prefilled",
+			"extraction_comment": "clinical trial",
+			"funding": "University Hospital Zurich",
+			"funding_certainty": "prefilled",
+			"is_trial": "yes",
+			"review_status": "prefilled automatically",
+			"source": "Ethics committees (CH)",
+			"source_id": "2020-00719",
+			"status_date": "2020-04-09",
+			"status_date_certainty": "generated",
+			"title": "SEVOFLURANE SEDATION IN COVID-19 ARDS PATIENTS TO REDUCE LUNG INJURY: A RANDOMIZED CONTROLLED TRIAL",
+			"title_certainty": "prefilled"
+		}
+	},
+	{
+		"fields": {
+			"authors": "Prof. Dr.med. Lorenz Risch",
+			"authors_certainty": "prefilled",
+			"country": "Switzerland",
+			"country_certainty": "prefilled",
+			"entry_type": "ethics",
+			"entry_type_certainty": "prefilled",
+			"extraction_comment": "clinical trial",
+			"is_trial": "yes",
+			"review_status": "prefilled automatically",
+			"source": "Ethics committees (CH)",
+			"source_id": "2020-00786",
+			"status_date": "2020-04-09",
+			"status_date_certainty": "generated",
+			"title": "Defining the role of a fertility bracelet for early recognition and monitoring of COVID-19 in Liechtenstein (COVIGAPP)",
+			"title_certainty": "prefilled"
+		}
+	},
+	{
+		"fields": {
+			"authors": "Prof. Dr. med. Markus G. Manz",
+			"authors_certainty": "prefilled",
+			"country": "Switzerland",
+			"country_certainty": "prefilled",
+			"entry_type": "ethics",
+			"entry_type_certainty": "prefilled",
+			"extraction_comment": "clinical trial",
+			"funding": "University Hospital Zurich",
+			"funding_certainty": "prefilled",
+			"is_trial": "yes",
+			"review_status": "prefilled automatically",
+			"source": "Ethics committees (CH)",
+			"source_id": "2020-00787",
+			"status_date": "2020-04-09",
+			"status_date_certainty": "generated",
+			"title": "A PHASE I, OPEN-LABEL, SINGLE-CENTRE CLINICAL STUDY TO EVALUATE SAFETY AND EFFICACY OF PASSIVE IMMUNIZATION OF HIGH-RISK SARS-COV-2 POSITIVE PATIENTS WITH CONVALESCENT PLASMA THERAPY",
+			"title_certainty": "prefilled"
+		}
+	},
+	{
+		"fields": {
+			"authors": "PD Dr Oriol Manuel",
+			"authors_certainty": "prefilled",
+			"country": "Switzerland",
+			"country_certainty": "prefilled",
+			"entry_type": "ethics",
+			"entry_type_certainty": "prefilled",
+			"extraction_comment": "clinical trial",
+			"funding": "Organisation Mondiale de la Santé (OMS)",
+			"funding_certainty": "prefilled",
+			"is_trial": "yes",
+			"review_status": "prefilled automatically",
+			"source": "Ethics committees (CH)",
+			"source_id": "2020-00818",
+			"status_date": "2020-04-15",
+			"status_date_certainty": "generated",
+			"title": "An international randomised trial of additional treatments for COVID-19 in hospitalised patients who are all receiving the local standard of care",
+			"title_certainty": "prefilled"
+		}
+	},
+	{
+		"fields": {
+			"authors": "Prof. Alexandra Calmy",
+			"authors_certainty": "prefilled",
+			"country": "Switzerland",
+			"country_certainty": "prefilled",
+			"entry_type": "ethics",
+			"entry_type_certainty": "prefilled",
+			"extraction_comment": "clinical trial",
+			"is_trial": "yes",
+			"review_status": "prefilled automatically",
+			"source": "Ethics committees (CH)",
+			"source_id": "2020-00864",
+			"status_date": "2020-04-17",
+			"status_date_certainty": "generated",
+			"title": "Efficacy of pragmatic same-day ring prophylaxis for adult individuals exposed to SARS-CoV-2 in Switzerland: an open-label cluster randomized trial",
+			"title_certainty": "prefilled"
+		}
+	}
+]
